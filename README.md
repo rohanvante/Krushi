@@ -16,5 +16,10 @@ Frontend: HTML, CSS, JavaScript
 Backend (optional): Node.js / Express.js
 Database (if used):  Firebase
 
-- [[Watch the video]([https://img.youtube.com/vi/your-video-id/0.jpg](https://drive.google.com/file/d/1iilsfkmC_uZCf--tqFVwNIgQsTF-Dg54/view?usp=sharing))]
+
+🎥 Demo Video
+
+[![Krushi Demo](https://img.icons8.com/ios-filled/480/000000/video.png)](https://drive.google.com/file/d/1iilsfkmC_uZCf--tqFVwNIgQsTF-Dg54/view?usp=sharing)
+
+
   
